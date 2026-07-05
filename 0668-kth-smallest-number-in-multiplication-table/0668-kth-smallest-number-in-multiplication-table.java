@@ -13,7 +13,7 @@ class Solution {
         }return count;
     }
     public int findKthNumber(int m, int n, int k) {
-        int low=1, high=m*n,
+        int low=0, high=m*n,
         res=-1;
         while(low<=high){
             int mid=(low+high)/2;

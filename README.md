@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

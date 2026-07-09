@@ -56,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0061-rotate-list) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

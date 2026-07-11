@@ -61,15 +61,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |

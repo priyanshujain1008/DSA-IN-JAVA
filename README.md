@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,15 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -77,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -88,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

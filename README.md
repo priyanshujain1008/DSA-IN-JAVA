@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Math
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0061-rotate-list) |
+| [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

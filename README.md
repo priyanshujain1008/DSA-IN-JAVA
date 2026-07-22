@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

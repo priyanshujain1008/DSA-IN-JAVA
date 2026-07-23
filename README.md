@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

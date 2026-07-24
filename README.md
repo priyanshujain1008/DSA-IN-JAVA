@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0410-split-array-largest-sum) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

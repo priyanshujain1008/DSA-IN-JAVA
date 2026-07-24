@@ -1,5 +1,5 @@
 class Solution {
-   public  static void fun ( int open, int close,int n, String temp,List<String>res){
+     static void fun ( int open, int close,int n, String temp,List<String>res){
         if (open==n && close==n){
             res.add(temp);
             return;

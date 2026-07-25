@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

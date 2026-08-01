@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0061-rotate-list) |
+| [0151-reverse-words-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
+| [0151-reverse-words-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |

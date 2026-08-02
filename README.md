@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
@@ -212,4 +213,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->

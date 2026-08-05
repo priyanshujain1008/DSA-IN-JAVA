@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -230,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |

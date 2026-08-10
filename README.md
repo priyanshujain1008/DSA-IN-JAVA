@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |

@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0658-find-k-closest-elements) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Merge Sort
 |  |
 | ------- |

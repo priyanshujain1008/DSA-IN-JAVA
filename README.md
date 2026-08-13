@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting

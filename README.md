@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0371-sum-of-two-integers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

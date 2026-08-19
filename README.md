@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |

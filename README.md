@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3875-construct-uniform-parity-array-i](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [3875-construct-uniform-parity-array-i](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |

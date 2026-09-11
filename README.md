@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |

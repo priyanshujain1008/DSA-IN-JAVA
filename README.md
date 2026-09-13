@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0410-split-array-largest-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Combinatorics
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

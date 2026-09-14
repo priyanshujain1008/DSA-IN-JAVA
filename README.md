@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Combinatorics
 |  |
 | ------- |

@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2469-convert-the-temperature) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1837-sum-of-digits-in-base-k](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/2469-convert-the-temperature) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/3875-construct-uniform-parity-array-i) |

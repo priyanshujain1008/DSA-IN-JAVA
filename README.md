@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0692-top-k-frequent-words) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshujain1008/DSA-IN-JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
